@@ -1,7 +1,8 @@
 # web_test-version
-http://meniko777.atw.hu
 
+http://users.iit.uni-miskolc.hu/~marincsak/
 
+(http://meniko777.atw.hu)
 
 futtatás Node.js-el,cmd-ben:
 
