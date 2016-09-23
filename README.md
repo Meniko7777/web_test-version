@@ -6,7 +6,7 @@ http://meniko777.atw.hu
 futtatás Node.js-el,cmd-ben:
 
 npm init
-Enter
+Enterek
 npm install --save-dev lite-server
 
 package.json-banátírni:
