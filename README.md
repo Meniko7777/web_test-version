@@ -14,3 +14,7 @@ package.json-banátírni:
 "test": "echo \"Error: no test specified\" && exit 1"    <--eztkellfelülírni      ezzel:-->"dev": "lite-server"
 
 npm run dev
+
+
+
+(ftp://marincsak@ftp.iit.uni-miskolc.hu/public_html)
