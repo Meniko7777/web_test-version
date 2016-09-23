@@ -56,7 +56,7 @@ function subscribe() {
     });
 
     $('.content').on('click', '.right-handler', function() {
-        imageContainer.css('background-image', 'url("' + getImgSrc(false) + '")');
+        imageContainer.css('background-image', 'url("' + getImgSrc(true) + '")');
     });
 }
 
